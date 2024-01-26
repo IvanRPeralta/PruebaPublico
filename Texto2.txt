@@ -2,3 +2,5 @@ nuevo archivo
 Agrego en nueva
 agrego en master
 aaaaaaaaaaaaaaaa
+def funcion2():
+    algo
